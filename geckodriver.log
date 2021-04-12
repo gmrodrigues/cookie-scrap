@@ -1,0 +1,52 @@
+1618266223025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EzqGU0Db9jVY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618266225403	Marionette	INFO	Listening on port 43887
+1618266225457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618266242843	Marionette	INFO	Stopped listening on port 43887
+1618266423199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BZ4ckGVdXvlH"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:22723): GLib-GObject-CRITICAL **: 19:27:03.954: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:22744): GLib-GObject-CRITICAL **: 19:27:04.041: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618266424549	Marionette	INFO	Listening on port 44605
+1618266424616	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22866): GLib-GObject-CRITICAL **: 19:27:04.917: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618266447262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zmyBbleOe7E4"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23028): GLib-GObject-CRITICAL **: 19:27:27.988: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23050): GLib-GObject-CRITICAL **: 19:27:28.073: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618266448674	Marionette	INFO	Listening on port 34941
+1618266448779	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23130): GLib-GObject-CRITICAL **: 19:27:28.971: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618266465214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.redoMxfkr20h"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23267): GLib-GObject-CRITICAL **: 19:27:45.978: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23288): GLib-GObject-CRITICAL **: 19:27:46.069: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618266466601	Marionette	INFO	Listening on port 39363
+1618266466632	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23373): GLib-GObject-CRITICAL **: 19:27:46.953: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618267155987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YCuc1XrmGCTl"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:24816): GLib-GObject-CRITICAL **: 19:39:16.764: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24837): GLib-GObject-CRITICAL **: 19:39:16.847: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618267157502	Marionette	INFO	Listening on port 32927
+1618267157605	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24922): GLib-GObject-CRITICAL **: 19:39:17.764: g_object_set: assertion 'G_IS_OBJECT (object)' failed
